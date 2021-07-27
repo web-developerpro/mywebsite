@@ -1,0 +1,23 @@
+.top{
+  width:10%;
+}
+body{
+  background-color:#FFD5CD;
+  text-align:center;
+
+}
+
+
+h1{
+  color:#8675A9;
+  font-family:Sacramento;
+}
+p{
+  color:#C3AED6;
+  font-family:Sacramento;
+}
+.fix{
+  position:fixed;
+  left:33%;
+  right:33%;
+}
